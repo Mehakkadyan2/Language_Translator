@@ -35,7 +35,7 @@ Execute `python3 python translator.py`
 
 
 ### Screenshot shows how to use the script	
-![Screenshot of the Language_translator.py file](https://github.com/Python-World/python-mini-projects/blob/master/projects/Language_translator/Shot.png)	
+![Screenshot of the Language_translator.py file](https://github.com/Mehakkadyan2/Language_Translator/blob/main/ScreenShot.png)	
 
 ## *Author Name*	
 [Mehak Kadyan](https://github.com/Mehakkadyan2)
